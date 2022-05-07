@@ -16,7 +16,7 @@
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages
+### 🔵 Programming languages
 
 <p align="center"> 
   
@@ -37,7 +37,7 @@
 </p>
 
 
-### 👉 Software & Tools
+### 🔵 Software & Tools
  
 <p align="center">
   
@@ -56,17 +56,26 @@
 </p>
 
 
-### 👉 Mobile
+### 🔵 Mobile Development 
+ 
+<p align="center">
+  &emsp;
+    <a href="https://flutter.dev"><img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%23F05033.svg?style=plastic&logo=flutter&logoColor=white"></a>
+  &emsp;
+    <a href="https://dart.dev"><img alt="Dart" src="https://img.shields.io/badge/dart-%23181717.svg?style=plastic&logo=dart&logoColor=white"></a>
+  &emsp;
+    <a href="https://reactnative.dev/"><img alt="React Native" src="https://img.shields.io/badge/React%20Native-0078d7.svg?style=plastic&logo=react&nativeColor=white"></a>
+  &emsp;
+</p>
 
-<p align="left"> 
-  
-   &emsp;
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-   &emsp;
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-   &emsp;
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-  </p>
-
+### 🔵 IDEs
+ 
+<p align="center">
+  &emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Andriod%20Studio-0078d7.svg?&style=plastic&logo=android&studioColor=white" /></a>
+  &emsp;
+ </p>
   
 
