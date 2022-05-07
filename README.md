@@ -1,23 +1,12 @@
-### Hi there👋 I'm Abdullah Ahmed ❤
--------------------------------------------------------
-*Software Enginner
-*Mobile developer
--------------------------------------------------------
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋, I'm Abullah Ahmed Elsayed ❤👋</h1>
+---------------------------------------------------------------------
+<h3 align="center">A Software Engineer</h3>
+<h3 align="center">A Mobile developer</h3>
 
 - 🔭 I’m currently Last year in the College of Engineering, Department of Systems and Computers
-- 🌱 I’m currently learning ... Flutter
-- 💬 Ask me about ...Anything
-- 📫 How to reach me: ... [Facebook](https://www.facebook.com/bodeahmed128128)
-
-
-<h1 align="center">Hi 👋, I'm Abullah Ahmed Elsayed ❤👋</h1>
-<h3 align="center">A Software Engineer</h3>
-
 - 🌱 I’m currently learning **Flutter**
-
 - 📫 How to reach me **bodeahmed128128@gmail.com**
-
+---------------------------------------------------------------------
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bodeahmed128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bodeahmed128" height="30" width="40" /></a>
