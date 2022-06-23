@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abullah Ahmed Elsayed ❤👋</h1>
 <h3 align="left">
 🟠 A Software Engineer, and mobile developer using flutter framework and dart programming language, Basic knowledge of security, operating systems, and networks.
+</h3>
+<h3 align="left">
 🟠 Interested in competitive programming, and Problem Solver at Code forces.
 </h3>
 
@@ -59,7 +61,7 @@
   &emsp;
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Postman" img src="https://img.shields.io/badge/postman-%23000000.svg?style=plastic&logo=postman&logoColor=white"></a>
+    <a href="#"><img alt="Postman" img src="https://img.shields.io/badge/postman-%23000000.svg?style=plastic&logo=postman&logoColor=orange"></a>
 </p>
 
 
