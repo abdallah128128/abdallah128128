@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Flutter**
 - 📫 How to reach me **Abdullah.elsayed128@gmail.com**
 ---------------------------------------------------------------------
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+##  Connect with me
 <p align="center">
 <a href="https://twitter.com/bodeahmed128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bodeahmed128" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abdullah-ahmed-el-sayed-75aa771ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah ahmed el-sayed" height="30" width="40" /></a>
