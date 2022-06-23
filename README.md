@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abullah Ahmed Elsayed ❤👋</h1>
-<h2 align="left">A Software Engineer, and mobile developer using flutter framework and dart programming language, Basic knowledge of security, operating systems, and networks.
-Interested in competitive programming, and Problem Solver at Code forces.</h2>
+<h3 align="left">
+🟠 A Software Engineer, and mobile developer using flutter framework and dart programming language, Basic knowledge of security, operating systems, and networks.
+🟠 Interested in competitive programming, and Problem Solver at Code forces.
+</h3>
 
 - 🔭 I’m currently Last year in the College of Engineering, Department of Systems and Computers
-- 🌱 I’m currently learning **Flutter**
-- ‍‍💻 **Flutter Skills:** _Sqflite |Apis |State Management-Bloc |Firebase |FCM |Handle Responsive Screens |Handle Adaptive Platforms |Dependency Injection.
-- ✒️ **Good Knowledge in :** _Object-Oriented Programming | Algorithms and Data Structure | Design patterns | clean code |SOLID principles | Agile.
+- 🌱 I’m currently learning and practice **Flutter**
+- ‍‍💻 **Flutter Skills:** Sqflite |Apis |State Management-Bloc |Firebase |FCM |Handle Responsive Screens |Handle Adaptive Platforms 
+                         |Dependency Injection.
+- ✒️ **Good Knowledge in :** Object-Oriented Programming | Algorithms and Data Structure | Design patterns | clean code 
+                         |SOLID principles | Agile.
 - 📫 How to reach me **Abdullah.elsayed128@gmail.com**
 
 ## 🔗 Connect with me
@@ -55,7 +59,7 @@ Interested in competitive programming, and Problem Solver at Code forces.</h2>
   &emsp;
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Postman" img src="https://th.bing.com/th/id/R.4d2624cf3354f8c748225127c6e66919?rik=l0VDvw7WVYnBlQ&pid=ImgRaw&r=0?style=plastic&logo=json&logoColor=white"></a>
+    <a href="#"><img alt="Postman" img src="https://img.shields.io/badge/postman-%23000000.svg?style=plastic&logo=postman&logoColor=white"></a>
 </p>
 
 
