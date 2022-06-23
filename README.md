@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Abullah Ahmed Elsayed ❤👋</h1>
-<h3 align="center">A Software Engineer | A Mobile developer [Flutter]</h3>
+<h2 align="right">A Software Engineer, and mobile developer using flutter framework and dart programming language, Basic knowledge of security, operating systems, and networks.
+Interested in competitive programming, and Problem Solver at Code forces.</h2>
 
 - 🔭 I’m currently Last year in the College of Engineering, Department of Systems and Computers
 - 🌱 I’m currently learning **Flutter**
+- ‍‍💻 **Flutter Skills:** _Sqflite |Apis |State Management-Bloc |Firebase |FCM |Handle Responsive Screens |Handle Adaptive Platforms |Dependency Injection.
+- ✒️ **Good Knowledge in :** _Object-Oriented Programming | Algorithms and Data Structure | Design patterns | clean code |SOLID principles | Agile.
 - 📫 How to reach me **Abdullah.elsayed128@gmail.com**
----------------------------------------------------------------------
-##  Connect with me
+
+## 🔗 Connect with me
 <p align="center">
 <a href="https://twitter.com/bodeahmed128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bodeahmed128" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abdullah-ahmed-el-sayed-75aa771ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah ahmed el-sayed" height="30" width="40" /></a>
@@ -36,7 +39,7 @@
 </p>
 
 
-### 🔵 Software & Tools
+### 🔵 Tools
  
 <p align="center">
   &emsp;
@@ -51,6 +54,8 @@
     <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Postman" img src="https://th.bing.com/th/id/R.4d2624cf3354f8c748225127c6e66919?rik=l0VDvw7WVYnBlQ&pid=ImgRaw&r=0?style=plastic&logo=json&logoColor=white"></a>
 </p>
 
 
