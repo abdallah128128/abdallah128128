@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abullah Ahmed Elsayed ❤👋</h1>
 <h3 align="left">
 🟠 A Software Engineer, and mobile developer using flutter framework and dart programming language, Basic knowledge of security, operating systems, and networks.
-</h3>
-<h3 align="left">
 🟠 Interested in competitive programming, and Problem Solver at Code forces.
 </h3>
+
+
 
 - 🔭 I’m currently Last year in the College of Engineering, Department of Systems and Computers
 - 🌱 I’m currently learning and practice **Flutter**
