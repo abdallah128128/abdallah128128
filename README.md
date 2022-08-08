@@ -15,13 +15,11 @@
 - 📫 How to reach me **Abdullah.elsayed128@gmail.com**
 
 ## 🔗 Connect with me
-<p align="center">
-<a href="https://twitter.com/bodeahmed128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bodeahmed128" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/abdullah-ahmed-el-sayed-75aa771ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah ahmed el-sayed" height="30" width="40" /></a>
-<a href="https://www.facebook.com/bodeahmed128128/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullah ahmed" height="30" width="40" /></a>
-</p>
-
-
+<p>
+<a href="http://Wa.me/201555328461" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/whatsapp%20bussines-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> 
+<a href="https://www.facebook.com/bodeahmed128128/" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/abdullah-ahmed-el-sayed-75aa771ab/" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <p>
 
 ## 🛠️ My Skills
 
