@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m Graduate From Al-Azher University with Bachelor's degree in Engineering, Department of Systems and Computers. Grade: Distinctive with honors.
+- 🔭 I’m Graduate From Al-Azher University 2022 with Bachelor's degree in Engineering, Department of Systems and Computers. Grade: Distinctive with honors.
 - 🌱 I’m currently 1 Year Experience in **Flutter**
 - ‍‍💻 **Flutter Skills:** Sqflite |Apis |State Management-Bloc |Firebase |FCM |Handle Responsive Screens |Handle Adaptive Platforms 
                          |Dependency Injection |Payment Integration
