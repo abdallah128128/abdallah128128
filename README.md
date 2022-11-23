@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Abullah Ahmed Elsayed ❤👋</h1>
+<h1 align="center">Hi 👋, I'm Abdullah Ahmed Mohammed Elsayed ❤👋</h1>
 <h3 align="left">
-🟠 A Software Engineer, and mobile developer using flutter framework and dart programming language, Good knowledge in operating systems, and networks.
-🟠 Interested in competitive programming, and Problem Solver at Code forces.
+🟠 I'm a Software Engineer, and mobile developer using flutter framework and dart programming language, Good knowledge in operating systems, and networks.
+🟠 Competitive programmer in ECPC and Code forces.
 </h3>
 
 
 
-- 🔭 I’m currently Last year in the College of Engineering, Department of Systems and Computers
-- 🌱 I’m currently learning and practice **Flutter**
+- 🔭 I’m Graduate From Al-Azher University with Bachelor's degree in Engineering, Department of Systems and Computers. Grade: Distinctive with honors.
+- 🌱 I’m currently 1 Year Experience in **Flutter**
 - ‍‍💻 **Flutter Skills:** Sqflite |Apis |State Management-Bloc |Firebase |FCM |Handle Responsive Screens |Handle Adaptive Platforms 
-                         |Dependency Injection.
+                         |Dependency Injection |Payment Integration
 - ✒️ **Good Knowledge in :** Object-Oriented Programming | Algorithms and Data Structure | Design patterns | clean code 
                          |SOLID principles | Agile.
 - 📫 How to reach me **Abdullah.elsayed128@gmail.com**
