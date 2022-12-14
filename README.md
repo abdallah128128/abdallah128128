@@ -35,7 +35,7 @@ Medicalempire.com Provides you a reliable shopping experience in one place with 
 
 ### MartiZoom
 
-MartiZoom is Shopping and delivery hypermarket application.!<br />
+Marti Zoom is the first 3D application of its kind to shop as if you are inside a hypermarket and deliver your orders quickly, quality and competitive prices through a distinctive electronic application (free) designed to be unique, easy to use, and enjoy a simple display of products, while providing all the details that you may need during the process the shopping.!<br />
 
 <p><a href="https://play.google.com/store/apps/details?id=com.techsexperts.martizoomapp&pli=1" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a><p>
 
@@ -43,8 +43,10 @@ MartiZoom is Shopping and delivery hypermarket application.!<br />
 
 ### Telephony
 
-The application is to insure phones against theft and report phone thefts.
-The application includes multiple payment services such as payment with Visa and e-wallets or through any kiosk .!<br />
+It is an application that specializes in recovering lost phones and secure it from loss for a symbolic amount to be paid annually.
+Where you can enter the application and log in, and then you can choose one of the two services .
+As the first is to request insurance on the phone against loss in return for a symbolic amount to be paid once,secondary, which is 100 pounds, if your phone is less than 10 thousand pounds, and 200 pounds if your phone is more than that.
+And the second, if your phone was lost in the first place, you can submit a return request for your phone, as we will take all necessary measures to retrieve your phone and we will not take any financial compensation from you until you retrieve your phone and hand it over to you.!<br />
 
 <p><a href="https://play.google.com/store/apps/details?id=com.techsexperts.Telephony" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a><p>
 
