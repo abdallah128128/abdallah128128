@@ -24,6 +24,15 @@
 
 <h2> Samples from my projects </h2>
 
+
+<hr>
+
+### BIOTIC بَيوتك
+Biotic, the first health market in Saudi Arabia and a leading brand in the field of health, specialized in all kinds of healthy alternatives, multiple diets, complementary accessories, as well as care and beauty products.
+<p><a href="https://play.google.com/store/apps/details?id=com.biotic.customer" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/biotic-%D8%A8-%D9%80%D9%80%D9%8A%D9%88%D8%AA%D9%83/id6446063607" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
+
 <hr>
 
 ### Match EG
