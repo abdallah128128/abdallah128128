@@ -24,9 +24,6 @@
 
 <h2> Samples from my projects </h2>
 
-
-<hr>
-
 ### BIOTIC بَيوتك
 بَــيوتك، السوق الصحي الأول في السعودية وعلامة تجارية رائدة في مجال الصحة، والمتخصصة في جميع أنواع البدائل الصحية والحميات المتعددة والاكسسوارات التكميلية وأيضا منتجات العناية والتجميل.
 نسمي عملائنا " الناس الطيبة" وحبينا الآن نوصل للناس الطيبة من خلال تطبيقنا والتوفير عليهم عناء الزيارة للفروع مع الحرص على تقديم نفس مستوى الجودة بالخدمة المتاحة في الفروع.
@@ -36,12 +33,10 @@ Biotic, the first health market in Saudi Arabia and a leading brand in the field
 
 <hr>
 
-<hr>
 ### Biotic Employee
+
 بَــيوتك، السوق الصحي الأول في السعودية وعلامة تجارية رائدة في مجال الصحة، والمتخصصة في جميع أنواع البدائل الصحية والحميات المتعددة واحتياجات الرياضيين.
 <p><a href="https://play.google.com/store/apps/details?id=com.biotic.employee" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/biotic-employee/id6445995964" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
-<hr>
-
 
 <hr>
 ### Habel | حبل
@@ -49,12 +44,9 @@ Biotic, the first health market in Saudi Arabia and a leading brand in the field
 <p><a href="https://apps.apple.com/sa/app/habel-%D8%AD%D8%A8%D9%84/id1671346670" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 <hr>
 
-
 ### Match EG
 Match is the first app in Egypt that creates matching space between the best products with high quality collect furniture and décor together in one place. Also providing ready-made collections designed by the best interior designers to help you. Order everything you need now from your home, choose the buy way that suits you, and we will be shipping soon.
 <p><a href="https://play.google.com/store/apps/details?id=com.match.matchdev" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a><p>
-
-<hr>
 
 <hr>
 
