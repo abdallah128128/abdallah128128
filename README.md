@@ -28,7 +28,7 @@
 بَــيوتك، السوق الصحي الأول في السعودية وعلامة تجارية رائدة في مجال الصحة، والمتخصصة في جميع أنواع البدائل الصحية والحميات المتعددة والاكسسوارات التكميلية وأيضا منتجات العناية والتجميل.
 نسمي عملائنا " الناس الطيبة" وحبينا الآن نوصل للناس الطيبة من خلال تطبيقنا والتوفير عليهم عناء الزيارة للفروع مع الحرص على تقديم نفس مستوى الجودة بالخدمة المتاحة في الفروع.
 يتميز التطبيق باحتوائه على جميع المعلومات الخاصة بكل منتج من معلومات وطرق استخدام ومميزات، ويتيح للعميل أيضا خدمة التوصيل السريع والذي يشمل أيضا الأغذية الباردة والمثلجة. ويتميز بتقديم الهدايا بالاضافة الى الاهداء وتحديد النص المراد ارساله الكترونيًا ،كما تتميز خدمة التوصيل بسهولتها و تتيح للعميل تحديد الموقع من خلال التطبيق وتوفير عناء الوصف للمندوب!
-Biotic, the first health market in Saudi Arabia and a leading brand in the field of health, specialized in all kinds of healthy alternatives, multiple diets, complementary accessories, as well as care and beauty products.
+
 <p><a href="https://play.google.com/store/apps/details?id=com.biotic.customer" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/biotic-%D8%A8-%D9%80%D9%80%D9%8A%D9%88%D8%AA%D9%83/id6446063607" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 <hr>
@@ -40,6 +40,7 @@ Biotic, the first health market in Saudi Arabia and a leading brand in the field
 
 <hr>
 ### Habel | حبل
+
 تطبيق حبل هو منصة عمل حر يربط ما بين مقدمين الخدمات او المشاريع (المستقلين) والباحثين عن الخدمات او أصحاب المشاريع (العميل) من افراد وممثلين مؤسسات، يتميز التطبيق بوجود عدد كبير من المهارات التي تتيح لأكبر عدد من المستقلين الاستفادة والعمل، كما تشمل مجالات اختصاص عديدة. يوفر التطبيق للمستقل والعميل بيئة عمل متكاملة وخصائص أساسية مثل: إضافة المشروع، تقديم عروض للمشروع، مراجعة العروض المقدمة، التبليغ عن المشروع، تسليم المشروع و التقييم، نظام مدفوعات آمن ويضمن حقوق الطرفين. تتمثل مساهمة التطبيق في بناء منصة سهلة الاستخدام، متعددة الوظائف والقوائم ملائمة لجميع الاعمار والفئات.
 <p><a href="https://apps.apple.com/sa/app/habel-%D8%AD%D8%A8%D9%84/id1671346670" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 <hr>
