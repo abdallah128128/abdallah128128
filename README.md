@@ -1,3 +1,8 @@
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=F7F7F7&size=46&vCenter=true&width=800&lines=>+Welcome!!+I'm+Abdullah+Ahmed;>+I'm+a+Software+Engineer"/>
+    <img src="https://github.com/rahulsunil2/rahulsunil2/raw/master/media/computerProgrammer.gif">
+</div>   
+
 <h1 align="center">Hi 👋, I'm Abdullah Ahmed Mohammed Elsayed ❤👋</h1>
 <h3 align="left">
 🟠 I'm a Software Engineer, and mobile developer using flutter framework and dart programming language, Good knowledge in operating systems, and networks.
@@ -15,10 +20,7 @@
 - 📫 How to reach me **Abdullah.elsayed128@gmail.com**
 
 
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=F7F7F7&size=46&vCenter=true&width=800&lines=>+Welcome!!+I'm+Abdullah+Ahmed;>+I'm+a+Software+Engineer"/>
-    <img src="https://github.com/rahulsunil2/rahulsunil2/raw/master/media/computerProgrammer.gif">
-</div>                                              
+                                           
 
 
 <p align="center">
