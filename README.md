@@ -6,6 +6,8 @@
 <h1 align="center">Hi 👋, I'm Abdullah Ahmed Mohammed Elsayed ❤👋</h1>
 <h3 align="left">
 🟠 I'm a Software Engineer, and mobile developer using flutter framework and dart programming language, Good knowledge in operating systems, and networks.
+ </h3>
+ <h3 align="left">
 🟠 Competitive programmer in ECPC and Code forces.
 </h3>
 - 🔭 I’m Graduate From Al-Azher University 2022 with Bachelor's degree in Engineering, Department of Systems and Computers. Grade: Distinctive with honors.
