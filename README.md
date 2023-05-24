@@ -9,19 +9,19 @@
  </h3>
  <h3 align="left">
 🟠 Competitive programmer in ECPC and Code forces.
-</h3>
- <h5 align="left">
-- 🔭 I’m Graduate From Al-Azher University 2022 with Bachelor's degree in Engineering, Department of Systems and Computers. Grade: Distinctive with honors.
-  </h5>
- <h5 align="left">
-- ‍‍💻 **Flutter Skills:** Sqflite |Apis |State Management-Bloc |Firebase |FCM |Handle Responsive Screens |Handle Adaptive Platforms |Dependency Injection |Payment Integrations
+<!-- </h3>
+<h5 align="left">
+🔭 I’m Graduate From Al-Azher University 2022 with Bachelor's degree in Engineering, Department of Systems and Computers. Grade: Distinctive with honors.
 </h5>
 <h5 align="left">
-- ✒️ **Good Knowledge in :** OOP | Algorithms and Data Structure | Design patterns | clean code |SOLID principles | Agile.
-    </h5>
- <h5 align="left">
-- 📫 How to reach me **Abdullah.elsayed128@gmail.com**
-    </h5>
+💻 **Flutter Skills:** Sqflite |Apis |State Management-Bloc |Firebase |FCM |Handle Responsive Screens |Handle Adaptive Platforms |Dependency Injection |Payment Integrations
+</h5>
+<h5 align="left">
+✒️ **Good Knowledge in :** OOP | Algorithms and Data Structure | Design patterns | clean code |SOLID principles | Agile.
+</h5> -->
+<h5 align="left">
+📫 How to reach me **Abdullah.elsayed128@gmail.com**
+</h5>
 
 ## 🔗 Connect with me
 <p>
@@ -29,7 +29,6 @@
 <a href="https://www.facebook.com/bodeahmed128128/" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/abdullah-ahmed-el-sayed-75aa771ab/" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  <p>
- 
 <h2> Samples from my projects </h2>
 
 ### BIOTIC بَيوتك
