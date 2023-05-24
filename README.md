@@ -8,22 +8,12 @@
 🟠 I'm a Software Engineer, and mobile developer using flutter framework and dart programming language, Good knowledge in operating systems, and networks.
 🟠 Competitive programmer in ECPC and Code forces.
 </h3>
-
-
-
 - 🔭 I’m Graduate From Al-Azher University 2022 with Bachelor's degree in Engineering, Department of Systems and Computers. Grade: Distinctive with honors.
-- 🌱 I’m currently 1 Year Experience in **Flutter**
 - ‍‍💻 **Flutter Skills:** Sqflite |Apis |State Management-Bloc |Firebase |FCM |Handle Responsive Screens |Handle Adaptive Platforms 
                          |Dependency Injection |Payment Integration
 - ✒️ **Good Knowledge in :** Object-Oriented Programming | Algorithms and Data Structure | Design patterns | clean code 
                          |SOLID principles | Agile.
 - 📫 How to reach me **Abdullah.elsayed128@gmail.com**
-
-
-                                           
-
-
-
 
 ## 🔗 Connect with me
 <p>
