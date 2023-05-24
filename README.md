@@ -23,13 +23,7 @@
                                            
 
 
-<p align="center">
-<a href="https://github.com/zedansaheer">
-     <br/><br/><br/>  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=abdallah128128&theme=dracula&show_icons=true&count_private=true&hide_border=true"/>
-     <br/><br/><br/>   <img width="49%" height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=abdallah128128&theme=onedark&hide_border=true"/>
-     <br/><br/><br/> <img width="98%" src="https://github-profile-trophy.vercel.app/?username=abdallah128128&theme=onedark&no-frame=true&no-bg=true"/>
-</a>
-</p>
+
 
 ## 🔗 Connect with me
 <p>
@@ -96,7 +90,13 @@ And the second, if your phone was lost in the first place, you can submit a retu
 
 <hr>
 
-
+<p align="center">
+<a href="https://github.com/zedansaheer">
+     <br/><br/><br/>  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=abdallah128128&theme=dracula&show_icons=true&count_private=true&hide_border=true"/>
+     <br/><br/><br/>   <img width="49%" height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=abdallah128128&theme=onedark&hide_border=true"/>
+     <br/><br/><br/> <img width="98%" src="https://github-profile-trophy.vercel.app/?username=abdallah128128&theme=onedark&no-frame=true&no-bg=true"/>
+</a>
+</p>
 <!-- ## 🛠️ My Skills
 ### 🔵 Programming languages
 <p align="center"> 
