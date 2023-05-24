@@ -10,12 +10,20 @@
  <h3 align="left">
 🟠 Competitive programmer in ECPC and Code forces.
 </h3>
+ <h3 align="left">
 - 🔭 I’m Graduate From Al-Azher University 2022 with Bachelor's degree in Engineering, Department of Systems and Computers. Grade: Distinctive with honors.
+    </h3>
+     <h3 align="left">
 - ‍‍💻 **Flutter Skills:** Sqflite |Apis |State Management-Bloc |Firebase |FCM |Handle Responsive Screens |Handle Adaptive Platforms 
                          |Dependency Injection |Payment Integration
+    </h3>
+          <h3 align="left">
 - ✒️ **Good Knowledge in :** Object-Oriented Programming | Algorithms and Data Structure | Design patterns | clean code 
                          |SOLID principles | Agile.
+    </h3>
+ <h3 align="left">
 - 📫 How to reach me **Abdullah.elsayed128@gmail.com**
+    </h3>
 
 ## 🔗 Connect with me
 <p>
