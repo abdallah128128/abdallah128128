@@ -14,6 +14,21 @@
                          |SOLID principles | Agile.
 - 📫 How to reach me **Abdullah.elsayed128@gmail.com**
 
+
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=F7F7F7&size=46&vCenter=true&width=800&lines=>+Welcome!!+I'm+Abdullah+Ahmed;>+I'm+a+Software+Engineer"/>
+    <img src="https://github.com/rahulsunil2/rahulsunil2/raw/master/media/computerProgrammer.gif">
+</div>                                              
+
+
+<p align="center">
+<a href="https://github.com/zedansaheer">
+     <br/><br/><br/>  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=abdallah128128&theme=dracula&show_icons=true&count_private=true&hide_border=true"/>
+     <br/><br/><br/>   <img width="49%" height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=abdallah128128&theme=onedark&hide_border=true"/>
+     <br/><br/><br/> <img width="98%" src="https://github-profile-trophy.vercel.app/?username=abdallah128128&theme=onedark&no-frame=true&no-bg=true"/>
+</a>
+</p>
+
 ## 🔗 Connect with me
 <p>
 <a href="http://Wa.me/201555328461" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/whatsapp%20bussines-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> 
@@ -80,7 +95,7 @@ And the second, if your phone was lost in the first place, you can submit a retu
 <hr>
 
 
-## 🛠️ My Skills
+<!-- ## 🛠️ My Skills
 ### 🔵 Programming languages
 <p align="center"> 
   &emsp;
@@ -98,8 +113,8 @@ And the second, if your phone was lost in the first place, you can submit a retu
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
 </p>
-
-### 🔵 Tools
+ -->
+<!-- ### 🔵 Tools
 <p align="center">
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
@@ -115,8 +130,8 @@ And the second, if your phone was lost in the first place, you can submit a retu
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Postman" img src="https://img.shields.io/badge/postman-%23000000.svg?style=plastic&logo=postman&logoColor=orange"></a>
-</p>
-
+</p> -->
+<!-- 
 
 ### 🔵 Mobile Development 
 <p align="center">
@@ -136,6 +151,6 @@ And the second, if your phone was lost in the first place, you can submit a retu
   &emsp;
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Andriod%20Studio-0078d7.svg?&style=plastic&logo=android&studioColor=white" /></a>
   &emsp;
- </p>
+ </p> -->
   
 
