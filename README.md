@@ -85,22 +85,23 @@ And the second, if your phone was lost in the first place, you can submit a retu
 <p><a href="https://play.google.com/store/apps/details?id=com.techsexperts.Telephony" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a><p>
 
 <hr>
-<!--
+
 <p align="center">
 <a href="https://github.com/abdallah128128">
-     <br/><br/><br/>  <img width="49%" height="180em" src="readme-six-theta.vercel.app&theme=dracula&show_icons=true&count_private=true&hide_border=true"/>
+     <br/><br/><br/>  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=abdallah128128&theme=dracula&show_icons=true&count_private=true&hide_border=true"/>
      <br/><br/><br/>   <img width="49%" height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=abdallah128128&theme=onedark&hide_border=true"/>
      <br/><br/><br/> <img width="98%" src="https://github-profile-trophy.vercel.app/?username=abdallah128128&theme=onedark&no-frame=true&no-bg=true"/>
 </a>
 </p>
--->
+
+<!--
 <p align="center">
   <img src="https://readme-qex5431hm-abdallah128128s-projects.vercel.app/api/top-langs/?username=abdallah128128&layout=compact" />
   <span style="display: inline-block; width: 40px;"></span>
   <span style="padding: 0 80px;">&nbsp;</span>
   <img src="https://readme-qex5431hm-abdallah128128s-projects.vercel.app/api?username=abdallah128128&show=reviews&count_private=true&hide=commits,issues,contribs" />
 </p>
-
+-->
 <!-- ## 🛠️ My Skills
 ### 🔵 Programming languages
 <p align="center"> 
